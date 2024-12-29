@@ -49,10 +49,10 @@ SMODS.Joker:take_ownership('j_certificate', {
 		['it'] = {
 			name = "Certificato",
 			text = {
-                    "All'inizio del round,",
-                    "aggiungi una {C:attention}carta",
-                    "{C:attention}da gioco{} casuale con un",
-                    "{C:attention}Sigillo{} casuale alla tua mano",
+                    "All'inizio del round, aggiungi",
+                    "una {C:attention}carta da gioco{}",
+                    "casuale con un {C:attention}Sigillo{}",
+                    "casuale alla tua mano",
                 }
 		}
 	}
