@@ -35,6 +35,29 @@ SMODS.Joker:take_ownership('j_seeing_double', {
 	}
 })
 
+SMODS.Joker:take_ownership('j_certificate', {
+	loc_txt = {
+		['en-us'] = {
+			name="Certificate",
+            text = {
+				"When round begins,",
+                "add a random {C:attention}playing",
+                "{C:attention}card{} with a random",
+                "{C:attention}seal{} to your hand"
+			},
+		},
+		['it'] = {
+			name = "Certificato",
+			text = {
+                    "All'inizio del round,",
+                    "aggiungi una {C:attention}carta",
+                    "{C:attention}da gioco{} casuale con un",
+                    "{C:attention}Sigillo{} casuale alla tua mano",
+                }
+		}
+	}
+})
+
 
 SMODS.Tag:take_ownership('tag_handy', {
 	loc_txt = {
