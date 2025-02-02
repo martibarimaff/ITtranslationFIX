@@ -1,0 +1,14 @@
+{
+	"id": "ITtranslationFIX",
+	"name": "ITtranslationFIX",
+	"display_name": "ITtranslationFIX",
+	"author": ["martibarimaff"],
+	"description": "Fixes Italian Translation by adding a custom itFix language",
+	"prefix": "itFix",
+	"main_file": "ITtranslationFIX.lua",
+	"priority": -100,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": ["Steamodded (>=1.*)","Lovely (>=0.6)"],
+}
