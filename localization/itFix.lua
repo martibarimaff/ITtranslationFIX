@@ -12,9 +12,9 @@ return {
             b_anaglyph={
                 name="Mazzo anaglifo",
                 text={
-                    "Dopo aver sconfitto ogni",
-                    "{C:attention}buio boss{}, guadagni 1",
-                    "{C:attention,T:tag_double}#1#",
+                    "Dopo aver sconfitto",
+                    "ogni {C:attention}buio boss{}, guadagni",
+                    "1 {C:attention,T:tag_double}#1#",
                 },
             },
             b_black={
@@ -77,8 +77,7 @@ return {
                 text={
                     "Inizia la sessione con il",
                     "Buono {C:tarot,T:v_crystal_ball}#1#{}",
-                    "e {C:attention}2{} copie",
-                    "di {C:tarot,T:c_fool}#2#",
+                    "e {C:attention}2{} copie di {C:tarot,T:c_fool}#2#",
                 },
             },
             b_nebula={
@@ -103,7 +102,7 @@ return {
                     "Bilancia {C:blue}fiche{} e",
                     "{C:red}Molt{} durante il calcolo",
                     "dei punti della mano giocata",
-                    "{C:red}X#1#{} importo buio base",
+                    "{C:red}X#1#{} importo base dei bui",
                 },
             },
             b_red={
@@ -2409,8 +2408,8 @@ return {
                 name="Aura",
                 text={
                     "Applica un effetto {C:dark_edition}foil{},",
-                    "{C:dark_edition}olografico{} o {C:dark_edition}policromo{} a",
-                    "{C:attention}1{} carta selezionata in mano",
+                    "{C:dark_edition}olografico{} o {C:dark_edition}policromo{} a {C:attention}1{} carta",
+                    "selezionata nella tua mano",
                 },
             },
             c_black_hole={
@@ -2432,9 +2431,9 @@ return {
             c_deja_vu={
                 name="Déjà vu",
                 text={
-                    "Aggiungi un {C:red}Sigillo rosso{}",
-                    "a {C:attention}1{} carta",
-                    "selezionata nella tua mano",
+                    "Applica un {C:red}Sigillo rosso{}",
+                    "a {C:attention}1{} carta selezionata",
+                    "nella tua mano",
                 },
             },
             c_ectoplasm={
@@ -2448,8 +2447,8 @@ return {
             c_familiar={
                 name="Famiglio",
                 text={
-                    "Distruggi {C:attention}1{} carta",
-                    "casuale nella tua mano, aggiungi",
+                    "Distruggi {C:attention}1{} carta casuale",
+                    "nella tua mano, aggiungi",
                     "{C:attention}#1# figure potenziate{}",
                     "casuali alla tua mano",
                 },
@@ -2457,9 +2456,9 @@ return {
             c_grim={
                 name="Tenebre",
                 text={
-                    "Distruggi {C:attention}1{} carta",
-                    "casuale nella tua mano,",
-                    "aggiungi {C:attention}#1# Assi potenziati{}",
+                    "Distruggi {C:attention}1{} carta casuale",
+                    "nella tua mano, aggiungi",
+                    "{C:attention}#1# Assi potenziati{}",
                     "casuali alla tua mano",
                 },
             },
@@ -2482,18 +2481,18 @@ return {
             c_incantation={
                 name="Incantesimo",
                 text={
-                    "Distruggi {C:attention}1{} carta",
-                    "casuale nella tua mano, aggiungi {C:attention}#1#",
-                    "{C:attention}carte numerate potenziate",
+                    "Distruggi {C:attention}1{} carta casuale",
+                    "nella tua mano, aggiungi",
+                    "{C:attention}#1# {C:attention}carte numerate potenziate",
                     "casuali alla tua mano",
                 },
             },
             c_medium={
                 name="Medium",
                 text={
-                    "Aggiungi un {C:purple}Sigillo viola{}",
-                    "a {C:attention}1{} carta",
-                    "selezionata nella tua mano",
+                    "Applica un {C:purple}Sigillo viola{}",
+                    "a {C:attention}1{} carta selezionata",
+                    "nella tua mano",
                 },
             },
             c_ouija={
@@ -2525,16 +2524,16 @@ return {
                 name="Talismano",
                 text={
                     "Applica un {C:attention}Sigillo d'oro{}",
-                    "a {C:attention}1{} carta",
-                    "selezionata nella tua mano",
+                    "a {C:attention}1{} carta selezionata",
+                    "nella tua mano",
                 },
             },
             c_trance={
                 name="Trance",
                 text={
-                    "Aggiungi un {C:blue}Sigillo blu{}",
-                    "a {C:attention}1{} carta",
-                    "selezionata nella tua mano",
+                    "Applica un {C:blue}Sigillo blu{}",
+                    "a {C:attention}1{} carta selezionata",
+                    "nella tua mano",
                 },
             },
             c_wraith={
@@ -2955,9 +2954,9 @@ return {
             c_wheel_of_fortune={
                 name="La ruota della fortuna",
                 text={
-                    "{C:green}#1# probabilità su #2#{} di applicare",
-                    "un'edizione {C:dark_edition}foil{}, {C:dark_edition}olografica{} o",
-                    "{C:dark_edition}policroma{}",
+                    "{C:green}#1# probabilità su #2#{}",
+                    "di applicare un'edizione",
+                    "{C:dark_edition}foil{}, {C:dark_edition}olografica{} o {C:dark_edition}policroma{}",
                     "a un {C:attention}Jolly{} casuale",
                 },
             },
