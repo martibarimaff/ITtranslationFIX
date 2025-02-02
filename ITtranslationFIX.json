@@ -7,7 +7,7 @@
 	"prefix": "itFix",
 	"main_file": "ITtranslationFIX.lua",
 	"priority": -100,
-	"badge_colour": "",
+	"badge_colour": "373c6e",
 	"badge_text_colour": "",
 	"version": "1.0.0",
 	"dependencies": ["Steamodded (>=1.*)","Lovely (>=0.6)"],
