@@ -1880,7 +1880,7 @@ return {
                 name="Sigillo blu",
                 text={
                     "Crea la carta {C:planet}Pianeta{}",
-                    "per l'ultima {C:attention}mano di poker{} giocata",
+                    "dell'ultima {C:attention}mano di poker{} giocata",
                     "nel round se {C:attention}tenuta{} in mano",
                     "{C:inactive}(Serve spazio)",
                 },
@@ -2620,7 +2620,7 @@ return {
                 name="Patto buffone",
                 text={
                     "Dà gratuitamente una",
-                    "{C:attention}busta buffone",
+                    "{C:attention}busta buffone mega{}",
                 },
             },
             tag_charm={
@@ -2678,8 +2678,8 @@ return {
             tag_garbage={
                 name="Patto spazzatura",
                 text={
-                    "Dà {C:money}$#1#{} per",
-                    "{C:red}scarto{} non usato in questa sessione",
+                    "Dà {C:money}$#1#{} per {C:red}scarto{}",
+                    "non usato in questa sessione",
                     "{C:inactive}(Darà {C:money}$#2#{C:inactive})",
                 },
             },
