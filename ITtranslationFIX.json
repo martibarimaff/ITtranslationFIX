@@ -4,7 +4,7 @@
 	"display_name": "ITtranslationFIX",
 	"author": ["martibarimaff"],
 	"description": "Fixes Italian Translation by adding a custom itFix language",
-	"prefix": "itFix",
+	"prefix": "it",
 	"main_file": "ITtranslationFIX.lua",
 	"priority": -100,
 	"badge_colour": "373c6e",
