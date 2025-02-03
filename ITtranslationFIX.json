@@ -4,7 +4,7 @@
 	"display_name": "ITtranslationFIX",
 	"author": ["martibarimaff"],
 	"description": "Fixes Italian Translation by taking ownership of the italian Language object and redirecting the localization loading",
-	"prefix": "it",
+	"prefix": "itFix",
 	"main_file": "ITtranslationFIX.lua",
 	"priority": -100,
 	"badge_colour": "373c6e",
