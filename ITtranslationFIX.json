@@ -3,7 +3,7 @@
 	"name": "ITtranslationFIX",
 	"display_name": "ITtranslationFIX",
 	"author": ["martibarimaff"],
-	"description": "Fixes Italian Translation by adding a custom itFix language",
+	"description": "Fixes Italian Translation by taking ownership of the italian Language object and redirecting the localization loading, because creating a custom language for some reason isn't working properly with all in-game text",
 	"prefix": "itFix",
 	"main_file": "ITtranslationFIX.lua",
 	"priority": -100,

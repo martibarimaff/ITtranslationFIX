@@ -4,10 +4,7 @@
 
 sendDebugMessage("Launching IT Translation FIX")
 
-SMODS.Language({
-	key = 'itFix',
-	label = 'itFix'
-})
+SMODS.Language:take_ownership('it',{})
 
 ----------------------------------------------
 ------------MOD CODE END----------------------
