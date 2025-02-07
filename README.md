@@ -1,6 +1,6 @@
 # IT
 ## ITtranslationFIX
- Mod che corregge alcune sviste nella traduzione italiana di Balatro, aggiungendo una lingua chiamata "itFix".
+ Mod che corregge alcune sviste nella traduzione italiana di Balatro, modificando quella ufficiale.
  Si spera che questa mod diventi inutile il prima possibile.
 
 ## Installazione
@@ -11,7 +11,7 @@
 
 # EN
 ## ITtranslationFIX
- This mod fixes some oversights in the italian translation of Balatro, by adding a custom language named "itFix".
+ This mod fixes some oversights in the italian translation of Balatro, modifying the official one.
  I hope this mod won't be needed in the near future.
  
 ## Installation
