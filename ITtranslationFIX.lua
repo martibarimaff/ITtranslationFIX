@@ -10,7 +10,7 @@ SMODS.Language({
 })
 
 G.FUNCS.loc_survey = function(e)
-	if  G.SETTINGS.language == 'it' then
+	if  G.SETTINGS.language == 'itFix' then
 	love.system.openURL( "https://github.com/martibarimaff/ITtranslationFIX/issues" )
 	else
 	love.system.openURL( "https://forms.gle/pL5tMh1oXLmv8czz9" )
