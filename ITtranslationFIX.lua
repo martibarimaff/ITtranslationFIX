@@ -6,7 +6,8 @@ sendDebugMessage("Launching IT Translation FIX")
 
 SMODS.Language({
 	key = 'itFix',
-	label = 'itFix'
+	label = 'itFix',
+	loc_key = 'it',
 })
 
 G.FUNCS.loc_survey = function(e)
