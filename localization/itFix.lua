@@ -387,7 +387,7 @@ return {
             m_gold={
                 name="Carta dorata",
                 text={
-                    "{C:money}$#1#{} se hai",
+                    "{C:money}#1#{} se hai",
                     "in mano questa carta",
                     "alla fine del round",
                 },
@@ -404,7 +404,7 @@ return {
             m_mult={
                 name="Carta Molt",
                 text={
-                    "{C:mult}+#1#{} Molt",
+                    "{C:mult}#1#{} Molt",
                 },
             },
             m_steel={
@@ -418,7 +418,7 @@ return {
             m_stone={
                 name="Carta di pietra",
                 text={
-                    "{C:chips}+#1#{} fiche",
+                    "{C:chips}#1#{} fiche",
                     "nessun valore o seme",
                 },
             },
@@ -1900,7 +1900,7 @@ return {
             },
             card_extra_chips={
                 text={
-                    "{C:chips}+#1#{} fiche in più",
+                    "{C:chips}#1#{} fiche in più",
                 },
             },
             challenge_locked={
